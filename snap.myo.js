@@ -23,6 +23,8 @@
 		snapHistory.push(data);
 		snapHistory = snapHistory.slice(1);
 
+
+		//Analyze the last bit of accelerometer history for blips on each axis
 		for(var i = 1; i < snapHistory.length -1; i++){
 			var prev = snapHistory[i+1];
 			var current = snapHistory[i];
