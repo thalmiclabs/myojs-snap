@@ -1,0 +1,24 @@
+{
+  "name": "myojs-snap",
+  "version": "0.0.0",
+  "description": "A plugin for myo.js that detects when the user snaps",
+  "main": "snap.myo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thalmiclabs/myojs-snap.git"
+  },
+  "keywords": [
+    "myo",
+    "myo.js",
+    "snap"
+  ],
+  "author": "Scott Tolksdorf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thalmiclabs/myojs-snap/issues"
+  },
+  "homepage": "https://github.com/thalmiclabs/myojs-snap"
+}
